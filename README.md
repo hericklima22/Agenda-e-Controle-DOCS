@@ -1,23 +1,18 @@
-# Agenda e Controle
-    Aplicativo criado para controle e gestão de clientes e locações das máquinas da empresa do meu pai.
-    
+# Agenda e Controle   
     Este é meu primeiro projeto pessoal e vou me dedicar bastante a ele.
+    <br>
 
-    <table>
-        <tr>
-            <td>
-                Nome
-            </td>
-            <td>
-                GitHub
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Herick de Carvalho Lima
-            </td>
-            <td>
-                https://github.com/hericklima22
-            </td>
-        </tr>
-    </table>
+    ##**Desenvolvedor**
+
+    | Matrícula  | Nome                    | GitHub 
+    | ---------- | ----------------------- | ------
+    | 18/0121995 | Herick De Carvalho Lima | [@hericklima2](https://github.com/hericklima22)
+
+    ##**Sobre**
+
+    Este app consiste em um controle de clientes, entradas e saídas de equipamentos e controle de estoque.
+    Está sendo desenvolvido por mim por mero treinamento e amor ao que faço.
+    O principal objetivo é ajudar meu pai, que sempre trabalhou sozinho e atualmente possui uma maneira
+    um pouco arcaica de realizar estes controles. 
+
+
