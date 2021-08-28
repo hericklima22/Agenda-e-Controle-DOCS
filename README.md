@@ -6,7 +6,7 @@ Este é meu primeiro projeto pessoal e vou me dedicar bastante a ele.
 
 | Matrícula  | Nome                    | GitHub 
 | ---------- | ----------------------- | -----------------------------------------------
-| 18/0121995 | Herick De Carvalho Lima | [@hericklima2](https://github.com/hericklima22)
+| 18/0121995 | Herick De Carvalho Lima | [@hericklima22](https://github.com/hericklima22)
 
 ## **Sobre**
 
